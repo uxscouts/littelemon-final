@@ -1,5 +1,9 @@
 Hello, this is my version of the Little Lemon Booking App. The Little Lemon Restaurant is a mythical place that is used in many of the Coursera certificate programs and mine was the Coursera Front-End Developer Certificate created by META. 
 
+Here is the mock up I created in Figma
+
+<img src="./assets/Mock-up-Eric.png" alt="Little Lemon" width="500" />
+
 Instructions for download:
 
 If you want to download this repository and open it in your VS Code, that is fine. 
