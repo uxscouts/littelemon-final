@@ -2,7 +2,7 @@ Hello, this is my version of the Little Lemon Booking App. The Little Lemon Rest
 
 Here is the mock up I created in Figma
 
-<img src="./src/assets/Mock-up-Eric.png" alt="Little Lemon" width="500" />
+<img src="./src/assets/images/Mock-up-Eric.png" alt="Little Lemon" width="500" />
 
 Instructions for download:
 
